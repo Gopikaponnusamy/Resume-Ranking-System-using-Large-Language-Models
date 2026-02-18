@@ -1,4 +1,4 @@
-Automated Resume Ranking System using Large Language Models
+**Automated Resume Ranking System using Large Language Models**
 Overview:
 This project implements an Automated Resume Ranking System using a Large Language Model (LLM) that analyzes candidate resumes and ranks them based on the relevance and quality of projects mentioned in their resumes.
 The system helps recruiters and organizations automatically identify the most suitable candidates by evaluating their project experience.
